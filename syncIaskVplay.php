@@ -8,6 +8,7 @@
 
 class SyncIaskVplay
 {
+	
 	const APPNAME = 'ivms';
 
 	/**
